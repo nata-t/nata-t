@@ -19,15 +19,15 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<img align="right" height="300" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="left">🌟Little About Me</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">💻 Full-stack developer with a strong foundation in web development</p>
 
 ###
 
@@ -39,19 +39,15 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">🧠 Experienced in UI/UX design and full stack development</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">🌍 Passionate about tech</p>
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
+<h2 align="left">🚀 Skills & Technologies</h2>
 
 ###
 
@@ -103,6 +99,10 @@
 
 ###
 
+<h2 align="left">📫 Let's Connect</h2>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -119,10 +119,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nata-t/nata-t/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nata-t/nata-t/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nata-t/nata-t/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/nata-t/nata-t/output/snake.svg" alt="Snake animation" />
 
 ###
